@@ -1,1 +1,1 @@
-# HTML-CSS-JAVASCR-small-projects
+# HTML-CSS-JAVASCRPT-small-projects
